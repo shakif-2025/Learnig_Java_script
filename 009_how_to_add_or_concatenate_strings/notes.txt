@@ -1,0 +1,2 @@
+ concatenate মানে যুক্ত করা । 
+ পাশাপাশি কয়েকটা String কে যুক্ত করার নিয়ম কে  concatenate বলে।
