@@ -1,0 +1,10 @@
+1.
+"tostring" is a methode যা Number datatype ke 
+String datatype e convert kore.
+
+2.
+ "parseInt" is a methode of integer number. It converts 
+  a float number to integer. (পূর্ণ সংখ্যা).
+
+3.
+  use of "toPrecision" search on google  
