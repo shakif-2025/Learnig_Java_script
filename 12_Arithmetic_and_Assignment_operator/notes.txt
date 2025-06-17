@@ -1,0 +1,6 @@
+1.What is operator?
+ans: Operators are mathemetical symbols . we can do mathemetical operations by the operators.
+
+Arthmetic Operators -->  + , - , * , / , %(Modulus), **(Exponent(to the power)) , ++(incriment), --(Decrement)
+
+Assignment operators -->  = , +=, -= , *= , /*, %=, **=
